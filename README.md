@@ -23,24 +23,19 @@ You can click the Preview link to take a look at your changes.
           -ACM (AWS certificate manger)
           -AMI
           -IAM
-       -Terraform
+- Terraform
           -Provider :AWS
-       -Anisble   
+- Anisble   
           -Ansible roles
 - Micro Services
        - Docker
-       - kubernetes
-      
+       - kubernetes    
 
 -  Operating Systems:
         - RedHat Linux Release
         - Ubuntu
         - CentOS
 
--  Monitoring Tools:
-        - Nixstats
-        - Nagios
-        - PRTG
-        - Cloud Watch
+
         
 ```
